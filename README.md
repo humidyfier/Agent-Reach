@@ -324,7 +324,7 @@ Yes! Agent Reach is an installer + configuration tool — any AI coding agent th
 </details>
 
 <details>
-<summary><strong>Is this free? Any API costs?</strong></summary>
+<summary><strong>is this even free? Any API costs?</strong></summary>
 
 100% free. All backends are open-source tools (OpenCLI, twitter-cli, bili-cli, rdt-cli, yt-dlp, Jina Reader, Exa, xiaohongshu-mcp, etc.) that don't require paid API keys. The only optional cost is a residential proxy (~$1/month) if your network blocks Reddit/Twitter (e.g. mainland China).
 </details>
